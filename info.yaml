@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:      400500602801915905     # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        " WOKWI KK"      # Project title
+  wokwi_id:      346661018698515028   # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        " WOKWI second try"      # Project title
   author:       "KNNKRTL"      # Your name
   discord:      "REISBEY52"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "TRY GITHUB"      # One line description of what your project does
+  description:  " A-B-C 3 LOGIC GATE"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -16,12 +16,12 @@ pinout:
   # Inputs
   ui[0]: "A"
   ui[1]: "B"
-  ui[2]: "A1"
-  ui[3]: "B1"
-  ui[4]: "A2"
-  ui[5]: "B2"
-  ui[6]: "A3"
-  ui[7]: "B3"
+  ui[2]: "C"
+  ui[3]: ""
+  ui[4]: ""
+  ui[5]: ""
+  ui[6]: ""
+  ui[7]: ""
 
   # Outputs
   uo[0]: ""
